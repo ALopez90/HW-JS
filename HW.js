@@ -27,7 +27,6 @@ function showHide() {
             a3.href = '#'
             clickme.appendChild(a3);
         clickme.appendChild(navbar);
-        navbar.style.textAlign = 'center';
     var text = document.createElement('p');
         text.innerHTML = 'Welcome to my humble abode! My name is Worm, nice to meet ya!';
         clickme.appendChild(text);
